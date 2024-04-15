@@ -7,7 +7,5 @@ if it doesnt run check if the file permissions are set to allow as a exectuable
 wget -O filename raw-link-to-file
 '''
 ````
-```
 Look! You can see my backticks.
-```
 ````
