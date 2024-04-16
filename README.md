@@ -1,6 +1,6 @@
 # terminal-game
 shitty linux python terminal game.
-currently on works for linux based computers since we are using a libary called termios and it dosnt work for windows
+currently on works for linux based computers
 </download>
 # download
 after the download is finshed unzip the file and double click on game.py 
