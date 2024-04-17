@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Function to install Python packages
 install_package() {
     package=$1
