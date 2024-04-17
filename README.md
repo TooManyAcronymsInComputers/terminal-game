@@ -9,8 +9,9 @@ wget -O https://github.com/TooManyAcronymsInComputers/terminal-game/blob/55b9566
 ````
 <download>
 </download1> 
+
 # depdencies-download
-````depdencies-download
+````
 bash -c "$(wget -O- https://raw.githubusercontent.com/yourusername/yourrepository/main/install_libraries.sh)"
 ````
 <download1>
