@@ -13,7 +13,7 @@ packages_to_install=(
     "termios"
     "atexit"
     "sys"
-    "PYopenal"
+    "PYopenAL"
     "time"
     "os"
     "datetime"
