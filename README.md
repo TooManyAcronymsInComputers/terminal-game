@@ -9,8 +9,8 @@ zip.file -c "$(wget -O https://github.com/TooManyAcronymsInComputers/terminal-ga
 ````
 <download>
 </download1>
-# dependices download 
-````
+# dependices-download 
+````bash
 bash -c "$(wget -O- https://raw.githubusercontent.com/yourusername/yourrepository/main/install_libraries.sh)"
 ````
 <download1>
