@@ -12,6 +12,6 @@ wget -O https://github.com/TooManyAcronymsInComputers/terminal-game/blob/55b9566
 
 # depdencies-download
 ````
-bash -c "$(wget -O- https://github.com/TooManyAcronymsInComputers/terminal-game/blob/5217a2cee2fbd15d2e1251436db918fcdf14b520/Terminal%20Game/install_libraries.sh)"
+bash -c "$(wget -O https://github.com/TooManyAcronymsInComputers/terminal-game/blob/5217a2cee2fbd15d2e1251436db918fcdf14b520/Terminal%20Game/install_libraries.sh)"
 ````
 <download1>
