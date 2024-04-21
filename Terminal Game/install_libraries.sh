@@ -12,10 +12,8 @@ install_package() {
 packages_to_install=(
     "termios"
     "atexit"
-    "sys"
     "PYopenAL"
     "time"
-    "os"
     "datetime"
     # Add more packages here as needed
 )
